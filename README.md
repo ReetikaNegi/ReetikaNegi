@@ -10,10 +10,6 @@
     <strong>AI Enthusiast &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; Continuous Learner</strong>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ReetikaNegi&label=Profile%20Views&color=36bcf7&style=flat" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
@@ -65,12 +61,26 @@ Core Computer Science Fundamentals
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReetikaNegi&show_icons=true&theme=radical&hide_border=true" alt="Reetika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReetikaNegi&show_icons=true&theme=react" alt="Reetika's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReetikaNegi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReetikaNegi&layout=compact&theme=react" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReetikaNegi&theme=react" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReetikaNegi&theme=react&area=true" alt="Recent Contribution Activity" />
+  </a>
 </div>
 
 ---
